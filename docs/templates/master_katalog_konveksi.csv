@@ -1,0 +1,20 @@
+product_id,product_name,fabric_id,fabric_name,gsm,moq,base_price_idr,default_print_method,print_price_idr,long_sleeve_add_idr,xxl_add_idr,3xl_add_idr,4xl_add_idr,lead_time_min_days,lead_time_max_days,owner_recommendation_notes
+kaos-oblong,Kaos Oblong / T-Shirt,combed-30s,Cotton Combed 30s,140-150,12,50000,sablon-dtf,12000,10000,10000,15000,20000,7,10,Ringan & adem untuk event outdoor/panas atau budget ekonomis
+kaos-oblong,Kaos Oblong / T-Shirt,combed-24s,Cotton Combed 24s,170-185,12,55000,sablon-plastisol,15000,10000,10000,15000,20000,7,10,Bestseller serbaguna; ketebalan pas dan tidak menerawang
+kaos-oblong,Kaos Oblong / T-Shirt,combed-20s,Cotton Combed 20s,190-210,12,62000,sablon-discharge,18000,10000,10000,15000,20000,7,10,Tebal dan kokoh; cocok untuk brand streetwear / oversize
+kaos-oblong,Kaos Oblong / T-Shirt,cotton-bamboo,Cotton Bamboo 30s,150-160,12,68000,sablon-dtf,12000,10000,10000,15000,20000,7,10,Ekstra lembut dan antibakteri untuk kaos premium
+polo-shirt,Polo Shirt / Kaos Kerah,lacoste-cvc,Lacoste CVC Pique,200-220,12,75000,bordir-standar,15000,10000,10000,15000,20000,10,14,Rapi & tidak mudah kusut untuk seragam kantor kasual
+polo-shirt,Polo Shirt / Kaos Kerah,lacoste-cotton,Lacoste Cotton 100%,210-230,12,88000,bordir-standar,15000,10000,10000,15000,20000,10,14,Lebih adem dari CVC untuk pemakaian outdoor / premium
+kemeja-pdh,Kemeja PDH / Seragam Kantor,american-drill,American Drill 1919,220-240,12,115000,bordir-standar,15000,12000,10000,15000,20000,12,16,Standar seragam kampus/organisasi dengan budget efisien
+kemeja-pdh,Kemeja PDH / Seragam Kantor,nagata-drill,Nagata / Japan Drill,230-250,12,135000,bordir-standar,15000,12000,10000,15000,20000,12,16,Lebih halus & adem; prioritas utama untuk seragam kantor formal
+kemeja-pdl,Kemeja PDL / Lapangan,ripstop,Ripstop Kotak-Kotak,200-220,12,135000,bordir-standar,15000,12000,10000,15000,20000,14,18,Tahan sobek & cepat kering untuk kerja lapangan berat
+kemeja-pdl,Kemeja PDL / Lapangan,nagata-drill,Nagata / Japan Drill,230-250,12,145000,bordir-standar,15000,12000,10000,15000,20000,14,18,Seragam lapangan tetap rapi dan menyerap keringat
+hoodie,Hoodie / Sweater Pullover,cotton-fleece,Cotton Fleece,280-330,12,145000,sablon-plastisol,15000,0,10000,15000,20000,14,18,Hangat & tebal; opsi resleting +15000
+hoodie,Hoodie / Sweater Pullover,baby-terry,Baby Terry,240-260,12,130000,sablon-dtf,12000,0,10000,15000,20000,14,18,Lebih ringan dan tidak gerah untuk cuaca tropis
+jaket-varsity,Jaket Varsity / Coach / Bomber,taslan-balon,Taslan / Parasut Micro,140-170,12,170000,bordir-standar,15000,0,10000,15000,20000,14,21,Tahan angin & percikan air untuk jaket motor/outdoor
+jaket-varsity,Jaket Varsity / Coach / Bomber,cotton-fleece,Cotton Fleece,280-330,12,175000,bordir-timbul,22000,0,10000,15000,20000,14,21,Klasik untuk jaket angkatan & varsity bordir handuk/timbul
+jersey-printing,Jersey Olahraga / Esports,dryfit-milano,Dryfit Milano / Benzema,150-170,12,85000,full-sublim,20000,10000,10000,15000,20000,10,14,Gratis custom nama & nomor punggung; cepat kering
+almamater-wearpack,Jas Almamater / Wearpack Safety,american-drill,American Drill 1919,220-240,20,155000,bordir-standar,15000,0,10000,15000,20000,14,21,Almamater kampus berfuring penuh dengan harga ekonomis
+almamater-wearpack,Jas Almamater / Wearpack Safety,ripstop,Ripstop Kotak-Kotak,200-220,20,170000,bordir-standar,15000,0,10000,15000,20000,14,21,Wearpack bengkel/tambang; tambah scotlight reflektif +10000
+totebag,Totebag / Goodiebag Custom,american-drill,American Drill 1919,220-240,24,28000,sablon-dtf,12000,0,0,0,0,7,10,Ekonomis untuk seminar & event dengan cetak full color
+totebag,Totebag / Goodiebag Custom,canvas-marsoto,Canvas Marsoto / Twill,260-300,24,32000,sablon-rubber,10000,0,0,0,0,7,10,Serat tebal & kokoh menahan beban untuk merchandise brand
